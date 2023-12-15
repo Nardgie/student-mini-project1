@@ -1,0 +1,38 @@
+.button {
+    background-color: #04AA6D;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#contact-box {
+    border: 2px solid grey;
+    position: relative;
+    left: 200px;
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+input {
+    position: absolute;
+}
+
+label {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+#footer {
+    text-align: center;
+}
+
+footer {
+    
+}
